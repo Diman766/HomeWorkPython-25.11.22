@@ -12,7 +12,7 @@ for i in range(n*2+1):
     list.append(-n + i)
 print(list)
 
-file = open('file.txt', 'r')
+file = open('HomeWorkPython 25.11.22/file.txt', 'r')
 pos1 = int(file.readline())
 pos2 = int(file.readline())
 file.close
